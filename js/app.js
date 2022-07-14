@@ -29,7 +29,7 @@ function largerNumberArray (array) {
     });
 }
 
-let array = [1,2,3];
+let array = [1,5,3];
 largerNumberArray(array);
 
 function findHappy(array) {
